@@ -1,0 +1,35 @@
+﻿  Animation.cpp
+C:\Users\Sameer\Desktop\Tech\GameDev\ConsoleApplication1\Animation.cpp(11,38): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sameer\Desktop\Tech\GameDev\ConsoleApplication1\Animation.cpp(12,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  main.cpp
+C:\Users\Sameer\Desktop\Tech\GameDev\ConsoleApplication1\main.cpp(30,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Sameer\Desktop\Tech\GameDev\ConsoleApplication1\main.cpp(30,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 77 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\Sameer\Desktop\Tech\GameDev\ConsoleApplication1\Release\ConsoleApplication1.exe
